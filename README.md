@@ -1,7 +1,7 @@
 # PandasExamples
 PandasExamples
 
-Automobile_Lab/
+Pandas/
 │
 ├── Part1/
 │   ├── Q1.py        # Create a Series
@@ -16,12 +16,11 @@ Automobile_Lab/
 │   ├── Q9.py        # Most expensive car per company
 │   ├── Q10.py       # Average mileage per company
 │   ├── Q11.py       # Sort cars by price
-│
-└── Part3/
-├── Q12.py       # Concatenate German & Japanese cars
-├── Q13.py       # Merge price & horsepower data
-
-
+    ├── Q12.py       # Concatenate German & Japanese cars
+    ├── Q13.py       # Merge price & horsepower data
+│  ├Part2       Chipotle Analysis#
+        ├── lab6.py        # Chipotle Analysis    
+        ├── Lab 6 - Chipotle.xls  dataset
 #Instalation of Pandas 
 pip install pandas 
 pip install xlrd
