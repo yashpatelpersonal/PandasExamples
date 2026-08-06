@@ -27,6 +27,7 @@ plt.legend()
 plt.show()
 
 # Rolling average (30-day)
+
 df['30_day_avg'] = df[value_column].rolling(window=30).mean()
 
 plt.figure(figsize=(12,6))
